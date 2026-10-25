@@ -1,3 +1,3 @@
-# EntryX
+# EntryT
 Знакомство с GitHub
 
